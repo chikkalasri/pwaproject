@@ -1,0 +1,49 @@
+{
+  "basic":{
+    "image":"resume.jpg",
+    "name":"Harshitha",
+    "emailid":"harshithachikkala333@gmail.com",
+    "phno":"8765432109",
+    "Address":"Pragati Engineering College,Surampalem."
+  },
+"Career":{
+  "info":"Seeking the position of Elementary English Teacher in a progressive institution."
+},
+"education":[
+  {
+    "institution":"Pragati Engineering College",
+    "degree":"B.tech",
+    "passout":"2020"
+},
+{
+  "institution":"sri Chaitanya College",
+  "degree":"Inter",
+  "passout":"2016"
+},
+{
+  "institution":"sri Chaitanya School",
+  "degree":"Ssc",
+  "passout":"2014"
+}
+],
+ "Achievements":{
+
+    "info":" Nptel certificate in Blockchain architecture"
+
+ },
+ "Technicalskills":[
+   {
+   "title":"Programming languages",
+   "content":["c","c++","java"]
+
+},
+{
+  "title":"Databases",
+  "content":["mysql","ubuntu"]
+},
+{
+  "title":"operating systems",
+  "content":["linux","windows"]
+}
+]
+}
